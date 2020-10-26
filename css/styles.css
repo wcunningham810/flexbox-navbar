@@ -89,17 +89,17 @@ img {
 
 .header-nav-2 {
   background-color: gray;
-  font-family: font-family: 'Poppins', sans-serif;
-
+  font-family: "Poppins", sans-serif;
 }
 
-.logo-2, .nav-menu-2 {
+.logo-2,
+.nav-menu-2 {
   text-transform: capitalize;
 }
 
-.logo-2 a, .nav-bar-2 a {
+.logo-2 a,
+.nav-bar-2 a {
   color: black;
-
 }
 logo-2 a {
   font-weight: 700;
@@ -117,7 +117,6 @@ logo-2 a {
   transform: none;
   border-bottom: 1px solid black;
   transition: all ease 0s;
-  
 }
 
 @media (min-width: 600px) {
